@@ -34,6 +34,8 @@ public class Q2675 {
 		 * AAABBBCCC
 		 * /////HHHHHTTTTTPPPPP
 		 * 
+		 * 
+		 * end
 		 */
 		
 		Scanner sc = new Scanner(System.in);
